@@ -1,0 +1,510 @@
+.text1{
+    padding-left: 40px;
+    padding-top: 120px;
+}
+.text2 {
+    padding-left: 110px;
+    padding-top: 80px;
+    color:black ;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+}
+.text3{
+    padding-left: 760px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    
+}
+.n34{
+    width: 320px;
+    padding-top: 55px;
+    padding-left: 70px;
+    margin-left: 40px;
+}
+.n24{
+    width: 400px;
+    padding-top: 55px;
+    padding-left: 160px;
+    margin-left: 40px;
+}
+ 
+.n53{
+    
+    width: 400px;
+    padding-top: 55px;
+    padding-left: 160px;
+    margin-left: 40px;
+} 
+.d134 {
+    font-size: 21px;
+    color: black;
+    font-family:Nokia,Arial,Helvetica,sans-serif ;
+    font-weight: bold;
+}
+.d234 {
+    font-size: 21px;
+    color: black;
+    font-family:Nokia,Arial,Helvetica,sans-serif ;
+}
+.des{
+    list-style: none;
+    margin-left: 15px;
+    margin-top: 40px;
+    
+}
+.btn34{
+    width: 150px;
+    height: 50px;
+    border-color:#0065ed ;
+    border-width: 3.5px;
+    border-radius: 4px;
+    color: #0065ed;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+.cad{
+    width: 1350px;
+    height: 730px;
+    margin-left: 80px;
+    background-color:#ffb31a;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.h3{
+    font-size: 65px;
+    font-family:Nokia,Arial,Helvetica,sans-serif ;
+    color: white;
+    font-weight: bold;
+    padding-left: 40px;
+
+}
+.h31{
+    font-size: 20px;
+    font-family:Nokia,Arial,Helvetica,sans-serif ;
+    color: white;
+    padding-left: 40px;
+    
+
+    
+}
+.btn31{
+    color: black;
+    background-color: white;
+    font-family:Nokia,Arial,Helvetica,sans-serif ;
+    width: 165px;
+    height: 70px;
+    border-radius:8px ;
+    font-size: 22px;
+    margin-left: 39px;
+
+}
+.h32{
+    font-size: 18px;
+    color: black;
+    margin-left: 80px;
+    margin-bottom: 60px;
+}
+.h322{
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.ho{
+    margin-left: 190px;
+    margin-top: 130px;
+    list-style: none;
+    
+    font-family: Arial,Helvetica,sans-serif;
+}
+.ho4
+{
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.ho41 {
+    font-size: 60px;
+    color: #192841;
+    font-weight: bold;
+}
+.hor
+{
+    margin-right: 150px;
+    color: black;
+    margin-top: 130px;
+    list-style: none;
+
+}
+.hor1{
+    font-size: 20px;
+    color: black;
+    
+}
+.hc{
+    height: 1000px;
+}
+.text7{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+.vde{
+    margin-top: 150px;
+    
+    
+}
+.vd4{
+
+    list-style: none;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 90px;
+    margin-left: 120px;
+    
+}
+.vcd{
+    margin-top: 90px;
+    width: 1450px;
+    height: 300px;
+    padding-right: 170px;
+    background-color: #001135;
+}
+.left{
+
+    list-style: none;
+
+}
+.ld1{
+    margin-top: 130px;
+    color: white;
+    padding-left:70px ;
+    font-size: 36px;
+    font-weight: bold;
+}
+.rl{
+    padding-top: 70px;
+    
+}
+.lcl{
+    width: 719.7px;
+    height: 350px;
+    background-color:#001135 ;
+    
+     
+}
+.lcl1{
+    list-style: none;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.rcl
+{
+    width: 719px;
+    height: 350px;
+    background-color: #001135;
+}
+.btnr{
+  
+    background-color: #1a253d;
+    border-color: transparent;
+    width: 190px ;
+    height: 62px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    color: rgb(145, 142, 142);
+}
+.email{
+    background-color: #001135;
+    font-size: 20px;
+    font-weight: bold;
+    width: 520px;
+    height: 57px;
+
+}
+.blu{
+    margin-top: 40px;
+
+}
+.sty{
+    font-size: 22px;
+}
+.box{
+    padding-top: 33px;
+}
+.last1{
+    height: 150px;
+    margin-top: 140px;
+    margin-left: 77px;
+    font-size: 17px;
+    color: rgb(145, 142, 142); 
+}
+
+.pho{
+    width: 1530px;
+    height: 600px;
+}
+.ho1{
+    color: #192841;
+    font-size: 18px;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.ho2{
+    color: #192841;
+    font-size: 53px;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.h3{
+    color: white;
+    font-size: 78px;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.pho1{
+    height: 500px;
+    margin-left:1100px ;
+    position: absolute;
+
+
+}
+.pho2{
+    height: 580px;
+    margin-left: 810px;
+    position: absolute;
+    margin-top: 140px;
+
+}
+
+.phone{
+    margin-left:500px ;
+    margin-top: 90px;
+}
+.h7{
+    height: 800px;
+    width: 1290px;
+    margin-left: 112px;
+}
+.vd1{
+ width: 1500px;
+}
+
+
+
+
+
+@media only screen and (max-width: 850px){
+
+}
+@media only screen and (max-width: 650px)
+{
+    .pho{
+        width: 700px;
+        height: 550px;
+    }
+    .text1{
+    
+    padding-top: 4px;
+    padding-left: 10px;
+    
+    }
+    .ho1{
+        font-size: 10px;
+    }
+    .ho2{
+           font-size: 25px;
+    }
+    .cad{
+        width: 600px;
+        height: 900px;
+        margin-left: 20px;
+        background-color:#ffb31a;
+    
+    }
+    .h3{
+        color: white;
+        font-size: 38px;
+        font-family: Nokia,Arial,Helvetica,sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+    
+    }
+    .h31{
+        font-size: 17px;
+        font-family:Nokia,Arial,Helvetica,sans-serif ;
+        color: white;
+    }
+    .pho1{
+        height: 300px;
+        margin-left:50px ;
+        margin-top: 350px;
+        
+    
+    }
+    .pho2{
+        height: 400px;
+        margin-left:170px ;
+        margin-top: 460px;
+    }
+    .text2 {
+        padding-left: 60px;
+        padding-top: 80px;
+        color:black ;
+        font-size: 32px;
+        font-weight: bold;
+        font-family: Nokia,Arial,Helvetica,sans-serif;
+    }
+    .text3{
+
+        padding-left: 1760px;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: Nokia,Arial,Helvetica,sans-serif;
+        
+    }
+    .phone{
+        margin-left:120px ;
+        margin-top: 90px;
+        height: 500px;
+    }
+    .learn{
+        margin-top: 1350px;
+    }
+    .h7{
+        height: 600px;
+        width: 500px;
+        margin-left: 20px;
+    }
+    .text7{
+        margin-left: 50px;
+        margin-top: 1px;
+    }
+    .text71{
+        font-size: 47px;
+        font-weight: bold;
+        font-family:Nokia,Arial,Helvetica,sans-serif ;
+    }
+    .text72{
+        font-weight: bold;
+        font-family: Nokia,Arial,Helvetica,sans-serif;
+        font-size: 18;
+    }
+    .vde{
+        margin-top: 70px;
+    }
+    .vd4{
+
+        list-style: none;
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 1px;
+        margin-left: 30px;
+        
+    }
+    .vd1{
+        margin-left: 10px;
+        width: 580px;
+        height: 300px;
+    
+    }
+    .ho{
+        margin-left: 10px;
+        margin-top: 1px;
+        list-style: none;
+        
+        font-family: Arial,Helvetica,sans-serif;
+    }
+    .hor
+    {
+        margin-right: 1px;
+        color: black;
+        margin-top: 1px;
+        list-style: none;
+    
+    }
+    .ho4
+{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.ho41 {
+    font-size: 37px;
+    color: #192841;
+    font-weight: bold;
+}
+ .lcl1{
+    list-style: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+.lcl{
+    width: 500px;
+    height: 200px;
+    background-color:#001135 ;
+    
+     
+
+}
+.rcl
+{
+    width: 500px;
+    height: 300px;
+    background-color: #001135;
+}
+   .blu{
+       margin-left: 1px;
+       margin-top: 50px;
+   }
+   .btnr{
+  
+    background-color: #1a253d;
+    border-color: transparent;
+    width: 42 0px ;
+    height: 62px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    color: rgb(145, 142, 142);
+    margin-left: 15px;
+}
+.email{
+    background-color: #001135;
+    font-size: 20px;
+    font-weight: bold;
+    width: 400px;
+    height: 57px;
+    margin-left: 21px;
+
+}
+  .sty{
+      font-size: 18px;
+      margin-left: 16px;
+  }
+  .last1{
+    height: 130px;
+
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(145, 142, 142); 
+}
+}
+
+ 

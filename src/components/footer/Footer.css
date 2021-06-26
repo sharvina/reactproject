@@ -1,0 +1,186 @@
+.foot{
+    margin-top: 490px;
+    padding-left: 100px;
+    
+    height: 550px;
+    background-color: rgb(245, 243, 243);
+}
+.ftrr{
+    width: 250px;
+    height: 500px;
+}
+.ft1{
+    background-color:rgb(245, 243, 243) ;
+    width: 460px;
+    list-style: none;
+    margin-top: 47px;
+}
+.ft2{
+    background-color:rgb(245, 243, 243) ;
+    
+    list-style: none;
+    
+}
+.ft22{
+    width: 400px;
+    height:500px ;
+    margin-top: 47px;
+     
+}
+.ft3{
+    background-color:rgb(245, 243, 243) ;
+    width: 520px;
+    list-style: none;
+    margin-top: 47px;
+}
+
+.ftr1{
+    margin-top: 47px;
+    list-style: none; 
+    font-size: 33px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.ftr2{
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+}
+.ftr3{
+    font-size: 19px;
+    color: black;
+}
+.ftr4{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.icn{
+    background-color: rgb(245, 243, 243) ;
+    color: black;
+    font-size: 28px;
+    
+}
+.icn1{
+    margin-left: 70px;
+}
+.lastl{
+    width: 700px;
+    color: rgb(145, 142, 142);
+}
+.lastr{
+    width: 700px;
+}
+.final{
+    font-size: 17px;
+    color: black;
+    margin-left: 90px;
+}
+.fr{
+    color: black;
+    margin-right: 25px;
+}
+.fr1{
+    color: black;
+    margin-left: 533px;
+}
+.fr2{
+    font-size: 19px;
+}
+.dd{
+    display: none;
+}
+.ss{
+    display: none;
+}
+
+ 
+
+
+
+
+
+
+@media only screen and (max-width: 650px)
+{
+    .icn{
+        background-color: rgb(245, 243, 243) ;
+        color: black;
+        font-size: 28px;
+        margin-top: 1300px;
+        
+        
+    }
+    .foot{
+        display: none;
+    }
+    .icn1{
+        margin-left: 35px;
+    }
+    .final{
+        font-size: 14px;
+        color: black;
+        margin-left: 20px;
+    }
+    .fr1{
+        color: black;
+        margin-left: 20px;
+    }
+    .fr2{
+        font-size: 16px;
+    }
+    
+        .ftr1{
+            display: none;
+
+        }
+        
+        .ft2{
+           
+            display: none;
+        }
+        
+        .ft3{
+            display: none;
+        }
+        .dd{
+            display: flex;
+            
+            
+            
+        }
+        
+        .lastl{
+            width: 700px;
+            color: rgb(145, 142, 142);
+            margin-top: 30px;
+        }
+        .ss{
+            display: flex;
+            margin-top: 800px;
+            list-style: none;
+            
+        }
+        .sms{
+            width: 500px;
+            font-size: 28px;
+            list-style: none;
+            color: black;
+            background-color: rgb(248, 248, 246);
+
+        }
+        .font{
+            color: black;
+            font-size: 17px;
+            list-style: none;
+            
+            
+        }
+        
+
+    
+
+}
+    
+    

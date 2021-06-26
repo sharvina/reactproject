@@ -1,0 +1,127 @@
+header{
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  
+  
+  }
+
+  .l1 {
+    margin-left: 70px;
+    
+    }
+    .l11{
+      font-size: 30px;
+
+
+    }
+    .l12{
+      font-size: 24px;
+
+    }
+    .r1{
+      margin-right: 40px;
+    }
+    .d1 {
+      align-items: center;
+      
+      padding-left: 80px;
+      padding-top: 30px;
+      border-color: black;
+      
+    }
+    .ic{
+      padding-top: 20px;
+      margin-right: 30px
+    }
+    .ico1{
+      margin-right: 57px;
+    }
+    .btn {
+      align-content: center;
+      text-align: center;
+
+    }
+    .rect{
+      background-color: white;
+      width: 670px;
+    }
+    .ero{
+      margin-left: 299px;
+    }
+    .ero1{
+      margin-left: 286px;
+    }
+    .btn1{
+      width: 460px;
+    }
+    .acct{
+      margin-left: 75px;
+    }
+
+
+
+
+
+    @media only screen and (max-width: 850px){
+      .r1{
+        display: none;
+      }
+    }
+    @media only screen and (max-width: 650px){
+      
+      
+      .r1{
+        display: none;
+        
+      }
+      .ic{
+        
+        margin-left: 90px;
+      }
+      .d1{
+        font-size: small;
+        padding-left: 170px;
+        
+      }
+      .l1 {
+        margin-left: 1px;
+        
+    
+        }
+        .rect{
+          background-color: white;
+          width: 520px;
+        }
+        .d1 {
+          align-items: center;
+          
+          padding-left: 20px;
+          padding-top: 10px;
+          border-color: black;
+          
+        }
+        .ero{
+          margin-left: 200px;
+        }
+        .ero1{
+          margin-left: 190px;
+        }
+        .btn1{
+          width: 400px;
+        }
+        .acct{
+          margin-left: 40px;
+        }
+
+    }
+    
+    @media only screen and (max-width: 240px){
+      .r1{
+        display: none;
+      }
+    }

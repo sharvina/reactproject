@@ -1,0 +1,56 @@
+
+.products{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 60px;
+}
+
+.products img{
+    width:60%;
+}
+
+.product{
+    padding: 20px;
+}
+.btnc{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(3, 16, 87);
+    color: azure;
+    font-size: 20px;
+    border-radius:  15px;
+    border-color: bisque;
+}
+
+.gocart{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(233, 253, 145);
+    margin-left: 600px;
+    border-radius:  12px;
+    border-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.hd1{
+    margin-left: 570px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 34, 90);
+    font-weight: bold;
+}
+.hd2{
+    margin-left: 160px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.gocart1{
+    height: 35px;
+    width: 350px;
+    background-color: rgb(241, 164, 47);
+    margin-left: 530px;
+    border-radius:  12px;
+    border-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
